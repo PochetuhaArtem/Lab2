@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635530130 source:f:\ одЅлоксЋабы\lab2_c+\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636117228 source:f:\ одЅлоксЋабы\laba_numb_2\lab_2_c+\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
